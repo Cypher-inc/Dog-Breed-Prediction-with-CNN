@@ -1,5 +1,4 @@
 
-````markdown
 # 🐶 Dog Breed Prediction Using CNN
 
 This project builds a deep learning model that predicts the breed of a dog from an image using Convolutional Neural Networks (CNN). Leveraging a dataset of 70 dog breeds, the model is trained with data augmentation, early stopping, and evaluated with performance metrics and prediction results.
@@ -83,5 +82,4 @@ The trained model is saved for future inference and deployment.
 
 ```python
 model.save('cnn.h5')
-```
 
